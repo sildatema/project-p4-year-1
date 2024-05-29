@@ -39,7 +39,7 @@ export class Game extends Engine {
             this.add(fish)
         }
     }
-
+    // hallo
     addScore() {
         this.score++
         let special = Math.random() * 100
